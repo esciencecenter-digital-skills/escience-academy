@@ -1,0 +1,79 @@
+- title: Bacon Carpentry
+  url: "/"
+  side: left
+
+- title: About
+  url: "/"
+  side: left
+  dropdown:
+    - title: "About us"
+      url: "/"
+    - title: "History"
+      url: "/"
+    - title: "Misson/Vision"
+      url: "/"
+    - title: "Governance"
+      url: "/"
+    - title: "The Carpentries"
+      url: "/"
+    - title: "Our Other Lesson Programs"
+      url: "/"
+    - title: "Handbook"
+      url: "/"   
+
+
+- title: "Workshops"
+  url: "/"
+  side: left
+  dropdown:
+  - title: "Request a Workshop"
+    url: "/"
+  - title: "Upcoming Workshops"
+    url: "/"
+  - title: "Past Workshops"
+    url: "/"
+
+- title: "Lessons"
+  url: "/"
+  side: left
+  dropdown:
+  - title: "Our Lessons"
+    url: "/"
+  - title: "License"
+    url: "/"
+  - title: "Curriculum Advisors"
+    url: "/"
+
+- title: "Connect"
+  url: "/"
+  side: left
+  dropdown:
+  - title: "Blog"
+  - title: "GitHub"
+  - title: "Twitter"
+  - title: "YouTube"
+  - title: "LinkedIn"
+  - title: "Facebook"
+  - title: "Contact Us"  
+
+- title: "The Carpentries"
+  url: "https://www.carpentries.org"
+  side: left 
+  dropdown:
+    - title: "Instructor Training"
+      url: "/"
+    - title: "Newsletter"
+      url: "/"
+
+
+- title: "Search"
+  url: "/"
+  side: right
+
+- title: "Contact"
+  url: "/"
+  side: right
+
+- title: "Donate"
+  url: "/"
+  side: right
