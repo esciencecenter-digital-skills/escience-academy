@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Bacon Carpentry'
+title: 'Cooking Carpentry'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Trying out a new lesson program template'
@@ -26,11 +26,11 @@ author: carpentries-work
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://carpentries-work.github.io'
-baseurl: '/bacon-carpentry'
+baseurl: '/cooking-carpentry'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/carpentries-work/bacon-carpentry/edit/gh-pages
+improve_content: https://github.com/carpentries-work/cooking-carpentry/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://github.com/carpentries-work/bacon-carpentry/edit/gh-pag
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://carpentries-work.github.io/bacon-carpentry/images/'
+urlimg: 'https://carpentries-work.github.io/cooking-carpentry/images/'
 
 
 # Logo size is 600x80 pixels
