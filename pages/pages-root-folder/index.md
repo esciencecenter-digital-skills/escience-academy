@@ -10,19 +10,19 @@ header:
 widget1:
   title: "Our Workshops"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: brisket.jpg
-  text: 'Our workshops are hands on, interactive, teaching about how to smoke the best meats and more! Pork chops, brisket, lobster, crabs, you name it.'
+  image: panipuri.jpg
+  text: 'Our workshops are hands on and interactive.  Learn how to make all your favorite main courses, sides, and desserts!'
 widget2:
   title: "Our Lessons"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: ribs.jpg
-  text: 'Our lessons are peer developed and reviewed.  All open source.  All so much more.'
+  image: dessert.jpg
+  text: 'Our cooking lessons are peer developed and reviewed, so you can directly apply the new skills you learn.'
 
 widget3:
   title: "Get Involved"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: lobster.jpg
-  text: 'There are so many ways to get involved as in this open and supportive community to cook and eat delicious food.'
+  image: sushi.jpg
+  text: 'There are so many ways to get involved in this open and supportive community to cook and eat delicious food.'
 #
 # Use the call for action to show a button on the frontpage
 #
