@@ -29,7 +29,7 @@
   side: left
   dropdown:
   - title: "Our Lessons"
-    url: "/"
+    url: "/lessons/"
   - title: "License"
     url: "/"
   - title: "Curriculum Advisors"
