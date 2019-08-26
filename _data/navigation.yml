@@ -47,7 +47,7 @@
     - title: "Our Other Lesson Programs"
       url: "/lesson_programs/"
     - title: "Instructor Training"
-      url: "/"
+      url: "https://carpentries.github.io/instructor-training/"
     - title: "Handbook"
       url: "https://docs.carpentries.org/"
 
