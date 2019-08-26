@@ -1,21 +1,14 @@
 - menu_name: "Related Projects"
 
-- name: "Software Carpentry"
-  url: "https://software-carpentry.org"
-  # class: "network-entypo"
-  # title: "Icons by Daniel Bruce"
-
 - name: "Data Carpentry"
   url: "https://datacarpentry.org/"
-  # class: "services-newsletter"
-  # title: "Built on Foundation"
 
 - name: "Library Carpentry"
   url: "https://librarycarpentry.org/"
-  # class: "rss-link"
-  # title: "Images by Unsplash"
+
+- name: "Software Carpentry"
+  url: "https://software-carpentry.org"
 
 - name: "The Carpentries"
   url: "https://carpentries.org"
-  # class: "sitemap-link"
-  # title: "Using Backstretch by Scott Robbin"
+
