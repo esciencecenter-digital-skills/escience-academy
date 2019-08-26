@@ -44,6 +44,8 @@
   url: "https://www.carpentries.org"
   side: left 
   dropdown:
+    - title: "Our Other Lesson Programs"
+      url: "/lesson_programs/"
     - title: "Instructor Training"
       url: "/"
     - title: "Newsletter"
