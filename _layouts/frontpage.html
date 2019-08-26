@@ -64,8 +64,10 @@ format: frontpage
 
 <div class="row">
 <div class="medium-6 columns">
-<h4> Workshop list goes here. </h4>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h4> Upcoming Workshops </h4>
+<img src="images/upcoming_workshops.png">
+
+
 </div>
 
 
@@ -77,7 +79,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% unless site.posts == empty %}
         <div class="medium-6 columns">
-            <p><strong>{{ site.data.language.new_blog_entries }}</strong></p>
+            <p><h4>{{ site.data.language.new_blog_entries }}</h4></p>
             {% include list-posts entries='3' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
