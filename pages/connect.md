@@ -6,7 +6,7 @@ permalink: "/connect/"
 
 List of how to contact us and connect on social media.
 
-* Blog
+* Read our [Blog](/blog/)
 * GitHub
 * Twitter
 * YouTube
