@@ -18,11 +18,11 @@
   side: left
   dropdown:
   - title: "Request a Workshop"
-    url: "/"
+    url: "https://carpentries-work.github.io/carpentries_test_website/workshops/"
   - title: "Upcoming Workshops"
     url: "/upcoming_workshops/"
   - title: "Past Workshops"
-    url: "/"
+    url: "/past_workshops/"
 
 - title: "Lessons"
   url: "/"
