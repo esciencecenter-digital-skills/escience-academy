@@ -48,8 +48,8 @@
       url: "/lesson_programs/"
     - title: "Instructor Training"
       url: "/"
-    - title: "Newsletter"
-      url: "/"
+    - title: "Handbook"
+      url: "https://docs.carpentries.org/"
 
 
 - title: "Search"
