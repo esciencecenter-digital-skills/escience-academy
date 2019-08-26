@@ -67,7 +67,7 @@
 
 
 - title: "Search"
-  url: "/"
+  url: "/search/"
   side: right
 
 - title: "Contact"
