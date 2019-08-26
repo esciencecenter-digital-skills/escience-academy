@@ -8,12 +8,12 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Our Workshops"
+  title: "Host a workshop"
   url: '#'
   image: panipuri.jpg
   text: 'Our workshops are hands on and interactive.  Learn how to make all your favorite main courses, sides, and desserts!'
 widget2:
-  title: "Our Lessons"
+  title: "Attend a workshop"
   url: '#'
   image: dessert.jpg
   text: 'Our cooking lessons are peer developed and reviewed, so you can directly apply the new skills you learn.'
@@ -37,7 +37,7 @@ old_callforaction:
   old_url: https://tinyletter.com/feeling-responsive
   ext: Inform me about new updates and features ›
   style: alert
-permalink: /index.html
+permalink: /index2.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
