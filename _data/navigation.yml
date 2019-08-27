@@ -12,6 +12,11 @@
 - title: About
   url: "/about/"
   side: left
+  dropdown:
+  - title: "About us"
+    url: "/about/"
+  - title: "Code of Conduct"
+    url: "https://docs.carpentries.org/topic_folders/policies/index_coc.html"
 
 - title: "Workshops"
   url: "/"
