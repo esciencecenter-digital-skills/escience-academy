@@ -15,6 +15,6 @@ Read our blog, check out our GitHub projects, follow us on social media, or emai
 * [YouTube](#)
 * [LinkedIn](#)
 * [GitHub](#)
-* [Emailus](mailto:team@carpentries.org)
+* [Email us](mailto:team@carpentries.org)
 
 
