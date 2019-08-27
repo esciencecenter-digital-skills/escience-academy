@@ -38,14 +38,6 @@
 - title: "Connect"
   url: "/connect/"
   side: left
-  dropdown:
-  - title: "Blog"
-  - title: "GitHub"
-  - title: "Twitter"
-  - title: "YouTube"
-  - title: "LinkedIn"
-  - title: "Facebook"
-  - title: "Contact Us"  
 
 - title: "The Carpentries"
   url: "https://www.carpentries.org"
