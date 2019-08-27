@@ -4,7 +4,7 @@ title: "Connect with us"
 permalink: "/connect/"
 ---
 
-List of how to contact us and connect on social media.
+Read our blog, check out our GitHub projects, follow us on social media, or email us. 
 
 * Read our [Blog](/blog/)
 * GitHub
