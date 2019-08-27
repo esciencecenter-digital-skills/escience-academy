@@ -8,19 +8,19 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Host a workshop"
+  title: "https://carpentries-work.github.io/carpentries_test_website/workshops/"
   url: '#'
   image: panipuri.jpg
   text: 'Our workshops are hands on and interactive.  Learn how to make all your favorite main courses, sides, and desserts!'
 widget2:
   title: "Attend a workshop"
-  url: '#'
+  url: '/upcoming_workshops/'
   image: dessert.jpg
   text: 'Our cooking lessons are peer developed and reviewed, so you can directly apply the new skills you learn.'
 
 widget3:
   title: "Get Involved"
-  url: '#'
+  url: 'https://carpentries.org/community/'
   image: sushi.jpg
   text: 'There are so many ways to get involved in this open and supportive community to cook and eat delicious food.'
 #
