@@ -35,10 +35,10 @@
   dropdown:
   - title: "Our Lessons"
     url: "/lessons/"
-  - title: "License"
-    url: "https://creativecommons.org/licenses/by/4.0/"
   - title: "Curriculum Advisors"
     url: "/curriculum_advisors/"
+  - title: "License"
+    url: "https://creativecommons.org/licenses/by/4.0/"
 
 - title: "Connect"
   url: "/connect/"
