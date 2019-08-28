@@ -8,8 +8,8 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "https://carpentries-work.github.io/carpentries_test_website/workshops/"
-  url: '#'
+  title: "Host a Workshop"
+  url: 'https://carpentries-work.github.io/carpentries_test_website/workshops/'
   image: panipuri.jpg
   text: 'Our workshops are hands on and interactive.  Learn how to make all your favorite main courses, sides, and desserts!'
 widget2:
