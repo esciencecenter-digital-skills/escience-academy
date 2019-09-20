@@ -1,13 +1,6 @@
 - title: Cooking Carpentry
   url: "/"
   side: left
-  dropdown:
-  - title: "Sample Front Page 1"
-    url: "/index"
-  - title: "Sample Front Page 2"
-    url: "/index2"
-  - title: "Sample Front Page 3"
-    url: "/index3"
 
 - title: About
   url: "/about/"
