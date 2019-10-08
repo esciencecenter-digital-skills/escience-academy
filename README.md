@@ -1,4 +1,4 @@
-### About this site
+## About this site
 
 Currently, the three lesson program sites use the same template but are organized in different ways. They also contain different information, both lesson program specific and general to The Carpentries.  
 
@@ -7,7 +7,7 @@ This site is a mockup of what a standard Carpentries lesson program website woul
 Feedback on the layout and navigation of this mock site was received from a group of people representing various roles and levels of experience with The Carpentries.  For reference, feedback documents are [here](https://drive.google.com/drive/folders/1WPDT1ZPTLkrMHZwi70l4dKxAVbXZyod_) (available only to The Carpentries staff).
 
 
-### Summary of Feedback
+## Summary of Feedback
 Additional notes are in the mock website pages themselves.
 
 #### Connecting lesson programs to The Carpentries
@@ -36,7 +36,7 @@ This round of reviews was not considering changing the lessons page on each webs
 #### Connect menu
 There was not agreement among the reviewers as to what should go on the "Connect" page and what may go on the "Contact" page.  This will need additional discussion.
 
-### Remote themes
+## Remote themes
 
 When we have a final template to use for lesson program sites, we can use remote themes to be sure that the lesson program sites structure stays consistent. More information on using remote themes is coming.
 
