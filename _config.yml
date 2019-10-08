@@ -51,6 +51,14 @@ plugins:
     - jekyll-paginate
 
 
+# Internal Links
+
+workshop-request: "https://amy.carpentries.org/forms/workshop/"
+
+
+
+
+
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
 #     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
