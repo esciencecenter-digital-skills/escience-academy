@@ -29,6 +29,10 @@ Reviewers agreed this contains everything they would want to see here.
 #### Lessons menu
 This round of reviews was not considering changing the lessons page on each website. However, these pages could be more consistently designed.  Suggestions also included crediting former lesson maintainers and adding information targeted to learners (like software installation instructions).
 
+*Curriculum Advisors*: Each lesson program lists its curriculum advisors differently. This should be standardized across all sites.
+
+*License*: The existing lesson programs have different ways of listing the license and can get out of date from the most current CC-BY, so this links directly to the CC-BY source page.
+
 #### Connect menu
 There was not agreement among the reviewers as to what should go on the "Connect" page and what may go on the "Contact" page.  This will need additional discussion.
 
