@@ -16,3 +16,7 @@ Cooking Carpentry is dedicated to making cooking skills accessible to all.  Fond
 
 ### Our Governance
 Cooking Carpentry was first established by an active steering committee.  [Read more](#) about the former steering committee's bylaws and meeting minutes.  In July 2019, Cooking Carpentry became a formal lesson program of [The Carpentries](https://carpentries.org) and follows [The Carpentries governance](https://carpentries.org/governance/). 
+
+
+### Our Audience
+Thoughts about what the "Audience" section should cover were varied, so this could use more discussion.  Currently we have [Profiles (SWC)](https://software-carpentry.org/audience/), [testimonials (SWC)](https://software-carpentry.org/testimonials/), [audience (LC)](https://librarycarpentry.org/audience/), and [stories (LC)](https://librarycarpentry.org/our-stories/).  There wasn't consensus in this round of review what should go on lesson program specific sites and what should go on The Carpentries site. 
