@@ -20,3 +20,6 @@ Cooking Carpentry was first established by an active steering committee.  [Read 
 
 ### Our Audience
 Thoughts about what the "Audience" section should cover were varied, so this could use more discussion.  Currently we have [Profiles (SWC)](https://software-carpentry.org/audience/), [testimonials (SWC)](https://software-carpentry.org/testimonials/), [audience (LC)](https://librarycarpentry.org/audience/), and [stories (LC)](https://librarycarpentry.org/our-stories/).  There wasn't consensus in this round of review what should go on lesson program specific sites and what should go on The Carpentries site. 
+
+### Additional Reading
+We have links to [Reading Material SWC site](https://software-carpentry.org/reading/), [Related Projects on the SWC site](https://software-carpentry.org/join/projects/), and [Citations on The Carpentries site](https://carpentries.org/citations/).  Thoughts about what should go where were varied, so this could use more discussion.  This will also require staff/community time to curate, as much of this content is out of date.
