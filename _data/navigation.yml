@@ -12,11 +12,11 @@
     url: "https://docs.carpentries.org/topic_folders/policies/index_coc.html"
 
 - title: "Workshops"
-  url: "/"
+  url: "http://carpentries.org/workshops/"
   side: left
   dropdown:
   - title: "Request a Workshop"
-    url: "https://carpentries-work.github.io/carpentries_test_website/workshops/"
+    url: 'https://amy.carpentries.org/forms/workshop/'  
   - title: "Upcoming Workshops"
     url: "/upcoming_workshops/"
   - title: "Past Workshops"
