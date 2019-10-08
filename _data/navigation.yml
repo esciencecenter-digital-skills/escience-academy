@@ -38,11 +38,9 @@
   side: left
 
 - title: "The Carpentries"
-  url: "/"
+  url: "https://carpentries.org/"
   side: left 
   dropdown:
-    - title: "The Carpentries"
-      url: "https://www.carpentries.org"
     - title: "Our Other Lesson Programs"
       url: "/lesson_programs/"
     - title: "Institutional Membership"
