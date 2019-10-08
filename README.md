@@ -4,6 +4,9 @@ Currently, the three lesson program sites use the same template but are organize
 
 This site is a mockup of what a standard Carpentries lesson program website would look like.  Most of the content is filler text, but also includes notes about what the intent of the page is, and what questions need to be resolved before fully releasing this as a template for lesson program sites.
 
+Feedback on the layout and navigation of this mock site was received from a group of people representing various roles and levels of experience with The Carpentries.  For reference, feedback documents are [here](https://drive.google.com/drive/folders/1WPDT1ZPTLkrMHZwi70l4dKxAVbXZyod_) (available only to The Carpentries staff).
+
+
 
 ### Remote themes
 
