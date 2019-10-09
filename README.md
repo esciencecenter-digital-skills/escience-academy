@@ -38,5 +38,14 @@ There was not agreement among the reviewers as to what should go on the "Connect
 
 ## Remote themes
 
-When we have a final template to use for lesson program sites, we can use remote themes to be sure that the lesson program sites structure stays consistent. More information on using remote themes is coming.
+When we have a final template to use for lesson program sites, we can use remote themes to be sure that the lesson program sites structure stays consistent. General information follows.
+
+#### Resources about remote themes
+
+* [Jekyll plugin for building Jekyll sites with any GitHub-hosted theme by Ben Balter](https://github.com/benbalter/jekyll-remote-theme)
+* [Jekyll Documentation on using themes](https://jekyllrb.com/docs/themes/)
+* [Quick start guide to using Gem based themes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+* [Jekyll Remote Theme Support](https://mmistakes.github.io/jekyll-theme-basically-basic/jekyll-remote-theme-support/)
+* [Creating Gem Based themes in Jekyll](https://www.chrisanthropic.com/blog/2016/creating-gem-based-themes-for-jekyll/)
+* [Troubleshooting when things don't work locally](https://stackoverflow.com/questions/48728510/jekyll-remote-theme-doesnt-work-locally)
 
