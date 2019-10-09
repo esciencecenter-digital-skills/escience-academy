@@ -31,7 +31,7 @@ This round of reviews was not considering changing the lessons page on each webs
 
 *Curriculum Advisors*: Each lesson program lists its curriculum advisors differently. This should be standardized across all sites.
 
-*License*: The existing lesson programs have different ways of listing the license and can get out of date from the most current CC-BY, so this links directly to the CC-BY source page.
+*License*: The existing lesson programs have different ways of listing the license and can get out of date from the most current CC-BY, so this links directly to the CC-BY source page. Note that [theme this site is built on](https://phlow.github.io/feeling-responsive/) uses its own [license](./LICENSE) so we need to make this clear.  
 
 #### Connect menu
 There was not agreement among the reviewers as to what should go on the "Connect" page and what may go on the "Contact" page.  This will need additional discussion.
