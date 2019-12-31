@@ -1,18 +1,18 @@
 - name: GitHub
-  url: https://github.com/carpentries-work
+  url: https://github.com/escience-academy
   class: icon-github
   title: "Find us on GitHub"
 
 
-- name: YouTube
-  url: https://www.youtube.com/thecarpentries
-  class: icon-youtube
-  title: "The Carpentries on YouTube"
+# - name: YouTube
+#  url: https://www.youtube.com/thecarpentries
+#  class: icon-youtube
+#  title: "The Carpentries on YouTube"
 
 - name: Twitter
-  url: https://twitter.com/thecarpentries
+  url: https://twitter.com/eScienceCenter
   class: icon-twitter
-  title: "The Carpentries on Twitter"
+  title: "eScience Center on Twitter"
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
@@ -24,10 +24,10 @@
 #   class: icon-googleplus
 #   title: "YouTube Google+"
 
-- name: Facebook
-  url: https://www.facebook.com/carpentries/
-  class: icon-facebook
-  title: "The Carpentries on Facebook"
+# - name: Facebook
+#   url: https://www.facebook.com/carpentries/
+#   class: icon-facebook
+#   title: "The Carpentries on Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
