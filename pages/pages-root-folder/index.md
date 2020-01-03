@@ -6,23 +6,25 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  #image_fullwidth: pattern_concrete_high.jpg
+    image:  "image-with-logo.png"
+    pattern:  "pattern_concrete.jpg"
 widget1:
   title: "Our Workshops"
-  url: 'https://carpentries-work.github.io/carpentries_test_website/workshops/'
-  image: panipuri.jpg
-  text: 'Our workshops are hands on and interactive.  Learn how to make all your favorite main courses, sides, and desserts!'
+  url: 'https://escience-academy.github.io/'
+  image: workshops.jpg
+  text: 'Our workshops are hands on and interactive. Learn how to efficiently process, visualise and analyse your data.'
 widget2:
   title: "Our Lessons"
   url: '/lessons/'
-  image: dessert.jpg
-  text: 'Our cooking lessons are peer developed and reviewed, so you can directly apply the new skills you learn.'
+  image: python.jpg
+  text: 'Our lessons are developed in collaboration with the wider community of experts or based on other  training materials developed by wider Carpentries community.'
 
 widget3:
-  title: "Get Involved"
+  title: "Our Trainers"
   url: 'https://carpentries.org/community/'
-  image: sushi.jpg
-  text: 'There are so many ways to get involved in this open and supportive community to cook and eat delicious food.'
+  image: trainers.jpg
+  text: 'Our workshops are taught by the expert research sofotware engineers from the Netherlands eScience Center, who are also certified Carpentries instructors.'
 #
 # Use the call for action to show a button on the frontpage
 #
