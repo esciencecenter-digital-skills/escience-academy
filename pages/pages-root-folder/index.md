@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   #image_fullwidth: pattern_concrete_high.jpg
-    image:  "image-with-logo.png"
+    image:  "image-with-logo.jpg"
     pattern:  "pattern_concrete.jpg"
 widget1:
   title: "Our Workshops"
